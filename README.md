@@ -2,7 +2,7 @@
 Blender Script.
 
 ## Description
-This simple script "transfers" the all shape keys of the active object to the non-active selected objects via surface deform modifier.
+This simple script "transfers" all of the shape keys of the active object to the non-active selected objects via surface deform modifier.
 ![screen](screen.gif 'screen')
 
 I tested this only on blender 2.92. Use this script at your own risk.
